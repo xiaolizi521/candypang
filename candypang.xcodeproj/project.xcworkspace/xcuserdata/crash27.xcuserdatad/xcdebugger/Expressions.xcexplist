@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[GameLayer ccTouchesBegan:withEvent:]:GameLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "gems[4]">
+            </PersistentString>
+            <PersistentString
+               value = "gems[3]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
